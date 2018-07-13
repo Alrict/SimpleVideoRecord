@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--视频录制按钮-->
+    <declare-styleable name="RecordVideoButton">
+        <attr name="minProgess" format="integer"/>
+        <attr name="maxProgress" format="integer"/>
+        <attr name="progressColor" format="color"/>
+        <attr name="progressWidth" format="dimension"/>
+        <attr name="innerCircleColor" format="color"/>
+        <attr name="outterCircleColor" format="color"/>
+        <attr name="innerRadiu" format="dimension"/>
+        <attr name="outterRadiu" format="dimension"/>
+    </declare-styleable>
+</resources>
